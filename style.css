@@ -1,0 +1,60 @@
+#smHEADING{
+    background-color: deepskyblue;
+    border :5px solid deeppink;
+    border-radius: 50px;
+    text-align: center;
+}
+
+#pubgHEADING{
+    background-color:rgb(234, 234, 9);
+    border-radius: 50px;
+    text-align: left;
+}
+
+#pubgimg{
+    width: 300px;
+}
+
+#pubgdesc{
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+}
+
+#wHEADING{
+    background-color: rgb(15, 228, 15);
+    border-radius: 50px;
+    text-align: left;
+}
+
+#wimg{
+    width: 300px;
+}
+
+#wdesc{
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+}
+
+#yHEADING{
+    background-color: red;
+    border-radius: 50px;
+    text-align: left;
+}
+
+#yimg{
+    width: 300px;
+}
+
+#ydesc{
+    display: inline-block;
+    width: 1000px;
+    height: 300px;
+    overflow: auto;
+    text-align: justify;
+}
